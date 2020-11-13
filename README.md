@@ -1,3 +1,13 @@
+# AlgoVisualizer 
+
+AlgoVisualizer is a tool where you can test out how an algorithm works. Currently only merge sort can be tested in this tool. It will be update soon with path finding algorithms to make it more fun. 
+
+For the source code go to src/SortingVisalizer and visit SortingVisualizer.js . 
+The algorithm is in src/sortingAlgorithms/sortingAlgorithms.js . 
+
+After downloading the project as zip file and following the below instructions to ru it you might see two colours being shown red and green. Green is the  colour shown before and after sorting and bars changes to red colour when comparision is done among them.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
