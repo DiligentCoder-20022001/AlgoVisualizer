@@ -7,6 +7,11 @@ The algorithm is in src/sortingAlgorithms/sortingAlgorithms.js .
 
 After downloading the project as zip file and following the below instructions to ru it you might see two colours being shown red and green. Green is the  colour shown before and after sorting and bars changes to red colour when comparision is done among them.
 
+Before sorting : 
+![alt text](https://github.com/Siddharth20022001/AlgoVisualizer/blob/main/before.png)
+
+After sorting : 
+![alt_text](https://github.com/Siddharth20022001/AlgoVisualizer/blob/main/after.png)
 
 # Getting Started with Create React App
 
