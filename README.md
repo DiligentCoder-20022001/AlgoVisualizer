@@ -1,6 +1,6 @@
 # AlgoVisualizer 
 
-AlgoVisualizer is a tool where you can test out how an algorithm works. Currently only merge sort can be tested in this tool. It will be update soon with path finding algorithms to make it more fun. 
+AlgoVisualizer is a tool where you can test out how an algorithm works. Currently only merge sort and bubble sort can be tested in this tool. It will be update soon with path finding algorithms to make it more fun. 
 
 For the source code go to src/SortingVisalizer and visit SortingVisualizer.js . 
 The algorithm is in src/sortingAlgorithms/sortingAlgorithms.js . 
