@@ -31,5 +31,6 @@ function bubbleSortHelper(mainArray, animations)
                 swap(mainArray,j,j+1);
             }
         }
+
     }
 }
