@@ -1,5 +1,7 @@
 # AlgoVisualizer 
 
+[![HitCount](http://hits.dwyl.com/DiligentCoder-20022001/AlgoVisualizer.svg)](http://hits.dwyl.com/DiligentCoder-20022001/AlgoVisualizer)
+
 AlgoVisualizer is a tool where you can test out how an algorithm works. Currently only merge sort and bubble sort can be tested in this tool. It will be update soon with path finding algorithms to make it more fun. 
 
 For the source code go to src/SortingVisalizer and visit SortingVisualizer.js . 
